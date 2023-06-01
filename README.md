@@ -1,2 +1,2 @@
 # RSSI-based-collision-prevention
-This is a project that aims at utilising BLE to prevent collision between two devices and much more.
+This is a project that aims at utilising BLE to prevent collision between multiple devices and much more.
